@@ -1,11 +1,11 @@
-## Hey 👋, I'm Abdelrahman Khaled!
+## Hey 👋, I'm Abdelrahman Khaled 
 <a href='https://www.linkedin.com/in/your-linkedin/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/Abdelrahman-Khaled'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+
 
 <br/><br/>
 
-I’m a **Computer Science Student** and **Backend Developer** passionate about building reliable and scalable web applications using **ASP.NET Core** and **Microsoft SQL Server**.  
-I enjoy learning new technologies, solving real-world problems, and continuously improving my backend architecture and API design skills.  
+I’m **Abdelrahman Khaled**, a **Computer Science Student** and **Backend Developer** passionate about building reliable, secure, and scalable web applications using **ASP.NET Core** and **Microsoft SQL Server**.  
+I love solving real-world problems with clean backend architecture and continuously improving my skills in modern development technologies.  
 
 <br/>
 
@@ -13,12 +13,12 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ### 🧐 More About Me:
 
-- 💼 &nbsp; I’m focused on **Backend Development** with ASP.NET Core & SQL Server  
-- 🌱 &nbsp; Currently improving my skills in **C#**, **Entity Framework Core**, and **RESTful APIs**  
-- 💬 &nbsp; Ask me anything about **C#**, **ASP.NET**, or **backend architecture** — happy to help!  
-- 🎯 &nbsp; Always exploring better ways to write clean, efficient, and secure code  
-- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/your-linkedin/) (link coming soon)  
-- ⚙️ &nbsp; Tools I use daily: *Visual Studio*, *VS Code*, and *Git*  
+- 💼 &nbsp; Focused on **Backend Development** with **C#**, **ASP.NET Core**, and **SQL Server**  
+- 🌱 &nbsp; Currently improving my skills more in **ASP.NET Core**
+- 🚀 &nbsp; Planning to become a **Full Stack Developer** — learning **Angular**, **Bootstrap**, **Tailwind CSS**, and more  
+- 💬 &nbsp; Ask me about anything related to **.NET**, **Backend Logic**, or **Database Design**  
+- 📫 &nbsp; Reach me on **abdelrahman.khaled.mo99@gmail.com** 
+- ⚙️ &nbsp; Tools I use daily: *Visual Studio*, *VS Code*, *Git*  
 
 <br>
 
@@ -31,22 +31,27 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" alt="TypeScript" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img align="left" alt="HTML5" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="CSS3" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
+<a href="https://isocpp.org/" target="_blank"> <img align="left" alt="C++" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </a>
+<a href="https://www.learn-c.org/" target="_blank"> <img align="left" alt="C" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </a>
 <a href="https://www.python.org/" target="_blank"> <img align="left" alt="Python" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" alt="Visual Studio" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VS Code" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> </a>
+<a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind CSS" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"> </a>
 
 <br/><br/><br/>
 
 ### 📊 GitHub Stats
 
-<a href='https://github.com/Abdelrahman-Khaled/github-stats-transparent'>
+<a href="https://github.com/abdelra7man-khaled">
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+![Abdelrahman Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelra7man-khaled&show_icons=true&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Khaled&layout=compact&hide_border=true&theme=transparent)
 
 </a>
 
 ---
 
-⭐️ From [Abdelrahman Khaled](https://github.com/Abdelrahman-Khaled)
+⭐️ From [Abdelrahman Khaled](https://github.com/abdelra7man-khaled)
