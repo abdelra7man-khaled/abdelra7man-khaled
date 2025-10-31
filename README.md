@@ -48,7 +48,7 @@ I love solving real-world problems with clean backend architecture and continuou
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VS Code" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> </a>
 <a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </a>
 <a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> </a>
-<a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" height="38px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" height="38px" style="margin-right: 0" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind CSS" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> </a>
 
 
