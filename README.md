@@ -34,9 +34,11 @@ I love solving real-world problems with clean backend architecture and continuou
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img align="left" alt="Visual Studio" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" alt="VS Code" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> </a>
+<a href="https://www.linux.org/" target="_blank"> <img align="left" alt="Linux" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> </a>
 <a href="https://angular.io/" target="_blank"> <img align="left" alt="Angular" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img align="left" alt="Bootstrap" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img align="left" alt="Tailwind CSS" height="42px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> </a>
+
 
 <br/><br/><br/>
 
