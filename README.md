@@ -33,7 +33,7 @@ I love solving real-world problems with clean backend architecture and continuou
 
 ### 🔨 Languages and Tools:
 
-<p align="left">
+
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img alt="C#" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> <img alt=".NET Core" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"> </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img alt="SQL Server" height="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"> </a>
@@ -51,7 +51,7 @@ I love solving real-world problems with clean backend architecture and continuou
 <a href="https://angular.io/" target="_blank"> <img alt="Angular" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"> </a>
 <a href="https://getbootstrap.com/" target="_blank"> <img alt="Bootstrap" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img alt="Tailwind CSS" height="40px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> </a>
-</p>
+
 
 
 <br/><br/><br/>
