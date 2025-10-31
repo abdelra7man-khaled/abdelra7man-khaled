@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Abdelrahman Khaled
-<a href='https://www.linkedin.com/in/your-linkedin/'><img align='left' alt="LinkedIn" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-
+<p align="left">
+<a href="https://linkedin.com/in/https://www." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www." height="30" width="40" /></a>
 <br/><br/>
 
 I’m **Abdelrahman Khaled**, a **Computer Science Student** and **Backend Developer** passionate about building reliable, secure, and scalable web applications using **ASP.NET Core** and **Microsoft SQL Server**.  
