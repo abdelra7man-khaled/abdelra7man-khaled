@@ -13,7 +13,7 @@ I love solving real-world problems with clean backend architecture and continuou
 - 🌱 &nbsp; Currently improving my skills more in **ASP.NET Core**  
 - 🚀 &nbsp; Planning to become a **Full Stack Developer** — learning **Angular**, **Bootstrap**, **Tailwind CSS**, and more  
 - 💬 &nbsp; Ask me about anything related to **.NET**, **Backend Logic**, or **Database Design**  
-- 📫 &nbsp; Reach me on **abdelrahman.khaled.mo99@gmail.com**  
+- 📫 &nbsp; Reach me on **dev.abdelrahmankhaled@gmail.com**  
 - ⚙️ &nbsp; Tools I use daily: *Visual Studio*, *VS Code*, *Git*  
 
 ---
