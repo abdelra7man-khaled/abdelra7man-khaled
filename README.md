@@ -20,14 +20,13 @@ I love solving real-world problems with clean backend architecture and continuou
 
 ### 📫 Contact Me:
 
-<p align="left">
-<a href="https://www.linkedin.com/in/abdelrahman-khaled-mohamed" target="blank">
+
+<a href="https://www.linkedin.com/in/abdelrahman-khaled-mohamed" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="mailto:dev.abdelrahmankhaled@gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
 </a>
-</p>
 
 
 ---
